@@ -43,3 +43,4 @@ jobs:
           echo
           which python
           python --version
+          conda create test
