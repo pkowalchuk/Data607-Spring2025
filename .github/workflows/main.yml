@@ -40,4 +40,6 @@ jobs:
           echo
           echo is Git installed?
           git --version
-          
+          echo
+          which python
+          python --version
